@@ -3,9 +3,9 @@ CC272 - Final Project.
 
 # Team Members
 1. Amr Mustafa.
-2. Abdelrahman Yehya.
+2. Nour Youssry.
 3. Nour Shobier.
-4. Nour Yousry.
+4. Abdelrahman Yehya.
 
 # Resources
 1. [Maze Runner PDF.](https://drive.google.com/file/d/1REpSaubOmQWFzednKw_NGly35cyWlPnj/view?usp=sharing)
